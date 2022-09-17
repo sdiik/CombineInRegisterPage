@@ -1,4 +1,4 @@
-# Combine InRegister Page
+# Combine In Register Page
 Description:
 - MVVM Architecture
 - Register page with swift UI
